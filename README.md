@@ -4,3 +4,12 @@
 
 首頁：https://kypost.github.io/SmartCity_Pointcard/
 
+集章01：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=1
+
+集章02：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=2
+
+集章03：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=3
+
+集章04：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=4
+
+兌換：集章01：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?
