@@ -12,4 +12,4 @@
 
 集章04：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=4
 
-兌換：集章01：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?
+兌換：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Prize=normal
