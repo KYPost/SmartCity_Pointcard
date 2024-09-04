@@ -11,5 +11,3 @@
 集章03：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=3
 
 集章04：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Collection=4
-
-兌換：https://kypost.github.io/SmartCity_Pointcard/CookieUpdate?Prize=normal
